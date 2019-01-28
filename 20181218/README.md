@@ -1,4 +1,4 @@
-# Docker_Paas (DevOps_Academy_Korea)
+# DevOps_Academy_Korea
 
 ## DevOps_Seongnam Study Group
 진행방법 : [Github](https://github.com/dev-chulbuji/DevOps_Seongnam) (Blogging)
